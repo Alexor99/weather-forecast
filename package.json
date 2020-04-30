@@ -15,7 +15,7 @@
     "bootstrap-vue": "^2.0.0-rc.25",
     "google-autocomplete-vue": "^1.0.17",
     "google-maps": "^3.3.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-google-autocomplete": "^1.1.0",
